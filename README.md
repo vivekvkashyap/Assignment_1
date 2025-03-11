@@ -8,7 +8,7 @@ Below is the repository for submitting the assignment on optimizing autoregressi
 * Real-time streaming inference
 
 
-## Repository Structure
+### Repository Structure
 
 📦 Assignment_1
 ├── 📂 bottlenecks               # Contains datasets and preprocessed data
