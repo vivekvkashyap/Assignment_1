@@ -49,6 +49,12 @@ Note: Additional dependencies were already installed in the environment, as I us
 pip install -r requirements.txt
 ```
 
+## Models Used
+
+I have used only one model for this assignment for the sake of simplicity.
+
+* [Parler TTS_mini_v0.1](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) : an 880M parameter model.
+
 ## 📝 Usage
 
 * Jupyter notebooks can be run and do not require any additional files.
