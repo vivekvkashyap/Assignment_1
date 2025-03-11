@@ -89,7 +89,21 @@ descriptions = [
 ## 📝 Usage
 
 * Jupyter notebooks can be run and do not require any additional files.
-* .py files require specific commands for execution, which are mentioned within each respective file.
+
+For .py files : 
+File Name : `acc_parler.py`
+
+```bash
+accelerate launch --num_processes 2 distributed_inference.py
+```
+
+File Name : final_2_bottleck.py
+
+```bash
+python final_2_bottleck.py
+```
+
+
 
 ## 📝 Additional Results
 
