@@ -7,13 +7,22 @@ Below is the repository for submitting the assignment on optimizing autoregressi
 * Throughput optimization
 * Real-time streaming inference
 
-
 ### Repository Structure
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+    ├── additional_results
+    │   └── miscellaneous.ipynb
+    ├── bottlenecks
+    │   ├── final_1_bottleck.ipynb
+    │   ├── final_2_bottleck.py
+    │   ├── tts_profile.qdrep
+    │   ├── tts_profile.qdstrm
+    │   └── tts_profile.sqlite
+    ├── latency
+    │   ├── final_latency_1.ipynb
+    │   └── final_latency_3.ipynb
+    ├── streaming
+    │   └── Final_Streaming.ipynb
+    ├── throughput
+    │   └── acc_parler.py
+    ├── README.md
+    └── requirements.txt
