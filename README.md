@@ -9,20 +9,41 @@ Below is the repository for submitting the assignment on optimizing autoregressi
 
 ### Repository Structure
     .
-    ├── additional_results
+    ├── additional_results   # Additional results for the assignment
     │   └── miscellaneous.ipynb
-    ├── bottlenecks
+    ├── bottlenecks          # Bottlenecks for the assignment
     │   ├── final_1_bottleck.ipynb
     │   ├── final_2_bottleck.py
     │   ├── tts_profile.qdrep
     │   ├── tts_profile.qdstrm
     │   └── tts_profile.sqlite
-    ├── latency
+    ├── latency              # Latency for the assignment
     │   ├── final_latency_1.ipynb
     │   └── final_latency_3.ipynb
-    ├── streaming
+    ├── streaming            # Streaming for the assignment
     │   └── Final_Streaming.ipynb
-    ├── throughput
+    ├── throughput           # Throughput for the assignment
     │   └── acc_parler.py
     ├── README.md
     └── requirements.txt
+
+
+## 📦 Installation
+
+I have used the following dependencies for this assignment:
+
+Note: Additional dependencies were already installed in the environment, as I used a previous Conda environment and had previously downloaded the necessary dependencies for the assignment.
+
+```bash
+pip install -r requirements.txt
+```
+
+## 📝 Usage
+
+* Jupyter notebooks can be run and do not require any additional files.
+* .py files require specific commands for execution, which are mentioned within each respective file.
+
+## 📝 Additional Results
+
+* Additional results for the assignment are present in the `additional_results` folder.
+* The `miscellaneous.ipynb` file contains additional results for the assignment.
