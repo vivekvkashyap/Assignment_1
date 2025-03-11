@@ -27,6 +27,17 @@ Below is the repository for submitting the assignment on optimizing autoregressi
     ├── README.md
     └── requirements.txt
 
+## 📦 GPU Used
+
+I have used the following GPUs for this assignment:
+
+### GPU Specifications
+* 2x NVIDIA RTX A6000
+  * Driver Version: 560.35.03
+  * CUDA Version: 12.6
+  * Memory: 48GB GDDR6 (49140MiB)
+  * Maximum Power Consumption: 300W
+
 
 ## 📦 Installation
 
